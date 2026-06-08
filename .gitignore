@@ -1,0 +1,8 @@
+# Large raw exports (provided as inputs, not committed)
+Account Export-Jun 08.csv
+Contact_Export-Jun_08.csv
+# Intermediate research artifacts
+batches/
+results_parts/
+__pycache__/
+*.pyc
